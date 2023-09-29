@@ -1,22 +1,24 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="/public/logo.png" width="400"></a></p>
+<p align="center"><img src="/public/logo.png" width="400"></p>
 
 ## About this Laravel app
 
-Creation of a Basic CRUD with API and Views in Laravel.
+Creation of a Basic CRUD with API and views in Laravel.
 
-# Getting started
+## Screenshots
+
+<img src="/public/screenshot.gif">
 
 ## Installation
 
 Please check the official Laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/8.x/installation)
 
-Extract files
+Clone the repository
 
-    crud.zip
+    git clone https://github.com/benzuri/laravel-crud.git
 
-Switch to the Crud folder
+Switch to the app folder
 
-    cd crud
+    cd laravel-crud
 
 Install all the dependencies using composer
 
